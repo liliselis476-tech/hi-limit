@@ -7,4 +7,7 @@
 <body>
     
 </body>
-</html>{"Version":"1.0.0","AccountID":10364948985,"MatchID":2112537592391657472,"EndTime":1792503891524,"MatchDurationMs":704880,"GameMode":1,"MatchMode":2,"GameAssistReviewRead":false}
+</html>
+
+
+{"Version":"1.0.0","AccountID":10364948985,"MatchID":2112537592391657472,"EndTime":1792503891524,"MatchDurationMs":704880,"GameMode":1,"MatchMode":2,"GameAssistReviewRead":false}
